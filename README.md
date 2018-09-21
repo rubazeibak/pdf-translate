@@ -1,2 +1,3 @@
-# pdf translate
-A service to translate pdf files.
+
+# pdf-translator
+read and translate pdf files.
