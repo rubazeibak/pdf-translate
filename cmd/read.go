@@ -7,5 +7,5 @@ import (
 )
 
 func newReader(path string) io.Reader {
-	return &pdf.Reader{path: path}
+	return &pdf.Reader{Path: path}
 }
